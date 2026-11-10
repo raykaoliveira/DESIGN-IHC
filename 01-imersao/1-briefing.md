@@ -4,7 +4,7 @@
 ## 1.1 Identificação do cliente
 
 - **Organização:** GAPI – Grupo de Ajuda aos Pets de Itacoatiara.
-- **Responsável pelo contato:** Aurisandra Miranda de Andrade
+- **Responsável pelo contato:** Representante do GAPI
 - **Cargo ou função:** Líder da organização.
 - **Data da entrevista:** 04/11/2026.
 - **Integrantes da equipe:** Rayka Oliveira Pantoja e Maricleide Sampaio Neves.
