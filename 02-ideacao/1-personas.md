@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DESIGN_IHC-TP2-243B55?style=for-the-badge" />
+
 
 # PERFIS DOS USUÁRIOS
 
