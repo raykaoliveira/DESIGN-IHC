@@ -60,7 +60,7 @@ Os diagramas estão apresentados em dois conjuntos, contemplando os objetivos re
 
 <div align="center">
 
-<img width="1920" height="1100" alt="2" src="https://github.com/user-attachments/assets/2ec0026b-a107-4f21-b32a-68ada5a64940" />
+<img width="1920" height="1100" alt="mapas de objetivos 2" src="https://github.com/user-attachments/assets/d74ebcc5-627f-4718-ac49-f80d040e4933" />
 
 
 <sub>Figura 02 — Mapas de objetivos relacionados à acessibilidade, gerenciamento de eventos, registros de adoção e carteirinha digital.</sub>
