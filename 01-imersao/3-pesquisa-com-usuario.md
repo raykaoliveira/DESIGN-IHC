@@ -1,6 +1,6 @@
 <div align="center">
 
-# 1. Pesquisas Complementares
+# Pesquisas Complementares
 
 </div>
 
@@ -9,7 +9,18 @@ Para realizar as pesquisas complementares, o grupo optou por realizar questioná
 
 Foi considerado também um questionário para pessoas que tem interesse em adoção, o questtionário online foi mantido, no entanto a abordagem foi diferenciada. A integrante da equipe, responsável pela matriz csd e pesquisa complementar, com ajuda do grupo, entregou folhetos com qrcode que contém o link da página de pesquisa com bombons colados atrás. Assim, chamando a atenção de possíveis usuários da solução digital, foi explicado como ocorreria o questionário e sua importância para o trabalho. 
 
-## 1.1 Pesquisa realizada com voluntários do GAPI
+## Sumário
+
+1. Pesquisa realizada com voluntários do GAPI
+2. Pesquisa realizada com pessoas interessadas em adoção e possíveis usuários
+3. Síntese das informações obtidas
+4. Registro da realização de pesquisa com usuários
+---
+
+## Pesquisas
+> *Clique no título da pesquisa para visualizar as respostas*
+<details>
+<summary><strong>01 | Pesquisa realizada com voluntários do GAPI </strong></summary>
 
 A pesquisa com os voluntários do GAPI, obteve apenas 3 respostas dentro do prazo estipulado.
 
@@ -74,7 +85,11 @@ A pesquisa com os voluntários do GAPI, obteve apenas 3 respostas dentro do praz
   - O trabalho manual repetitivo .
   - Fazer um aplicativo que agilize nosso cadastro
 
-## 1.2 Pesquisa realizada com pessoas interessadas em adoção e possíveis usuários
+</details>
+
+<details>
+
+<summary><strong>02 | Pesquisa realizada com pessoas interessadas em adoção e possíveis usuários </strong></summary>
 
 Esta pesquisa obteve um total de 25 respostas, as perguntas foram separadas em três seções: 
 
@@ -239,7 +254,11 @@ Não obtivemos contato com os clientes que o GAPI possui por questões de privac
   - Cores e o design das plataformas. Muitas delas tem cores que não conversam ou o design acaba sendo confuso, deixando maior parte das funcionalidades a interpretação do usuário
   - Visualização de fácil acesso
 
-## 1.3 Síntese das informações obtidas
+</details>
+
+---
+
+## 03. Síntese das informações obtidas
 
 De maneira geral, os resultados das pesquisas evidenciaram necessidades complementares entre os diferentes públicos envolvidos no contexto do GAPI.
 
@@ -253,7 +272,7 @@ Assim, a análise conjunta aponta para a oportunidade de desenvolver uma soluç�
 
 As informações coletadas servirão como base para a construção das personas, a identificação dos objetivos dos usuários e a definição dos principais fluxos de interação da solução proposta.
 
-## 1.4 Registro da realização de pesquisa com usuários
+## 04 Registro da realização de pesquisa com usuários
 
 <img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/c068bb22-925b-4ac4-8d56-cd09e733202e" />
 
