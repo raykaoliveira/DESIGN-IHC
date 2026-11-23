@@ -2,6 +2,11 @@
 
 # Matriz CSD
 
+<img src="https://img.shields.io/badge/TP2-DESIGN THINKING-167D72?style=for-the-badge">
+<img src="https://img.shields.io/badge/ARTEFATO-MATRIZ CSD-70CDB5?style=for-the-badge">
+<img src="https://img.shields.io/badge/DISCIPLINA-IHC-E8B7C8?style=for-the-badge">
+
+
 </div>
 
 A Matriz CSD (Certezas, Suposições e Dúvidas) foi utilizada pela equipe paraa alinhar, mapear e direcionar o conhecimento atual sobre as informações coletadas pós briefing, afim de direcionar as pesquisas complementares de forma estratégica 
