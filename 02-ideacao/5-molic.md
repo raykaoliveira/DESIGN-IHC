@@ -38,7 +38,7 @@ O diagrama tem sete partes, uma para cada HTA. Todas seguem o mesmo padrão: par
 
 ### Parte 1 – Acesso ao aplicativo (HTA 1)
 
-![Parte 1](imagens/molic-parte-1.png)
+![Parte 1](file:///C:/Users/Ryan/Downloads/MOLIC_HTA1.drawio.png)
 
 **Resumo da parte:** O usuário entra no aplicativo, escolhe o tipo de acesso (área pública ou área do voluntário) e, no caso do voluntário, informa suas credenciais para chegar ao ambiente do seu perfil. Atende ao objetivo de acessar o aplicativo conforme o perfil.
 
