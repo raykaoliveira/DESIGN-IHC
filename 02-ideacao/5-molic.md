@@ -20,7 +20,7 @@ Este documento apresenta a modelagem da interação entre usuários e o aplicati
 
 ## 3. Visão geral do diagrama completo
 
-![Visão geral do MoLIC](imagens/molic-visao-geral.png)
+![Visão geral do MoLIC](<img width="12564" height="5512" alt="image" src="https://github.com/user-attachments/assets/8dcd7f8b-def9-44ba-abd6-6524d77712e4" />)
 
 O diagrama tem sete partes, uma para cada HTA. Todas seguem o mesmo padrão: partem do **Menu inicial** (acesso ubíquo, em cinza), que permite entrar em qualquer funcionalidade e sair do aplicativo com `u: Sair`. Dentro de cada parte, o usuário avança por cenas conectadas por processos do sistema: ele envia `u: Prosseguir`, o sistema processa e responde com um `d:` que leva à cena seguinte. Setas de retorno permitem corrigir uma escolha e setas tracejadas permitem sair da funcionalidade ou cancelar a operação, voltando ao Menu inicial.
 
@@ -38,7 +38,8 @@ O diagrama tem sete partes, uma para cada HTA. Todas seguem o mesmo padrão: par
 
 ### Parte 1 – Acesso ao aplicativo (HTA 1)
 
-![Parte 1](file:///C:/Users/Ryan/Downloads/MOLIC_HTA1.drawio.png)
+![Parte 1](<img width="8264" height="8040" alt="image" src="https://github.com/user-attachments/assets/4d92c741-f82e-4fc7-b255-001f85c7dc78" />
+)
 
 **Resumo da parte:** O usuário entra no aplicativo, escolhe o tipo de acesso (área pública ou área do voluntário) e, no caso do voluntário, informa suas credenciais para chegar ao ambiente do seu perfil. Atende ao objetivo de acessar o aplicativo conforme o perfil.
 
@@ -71,7 +72,7 @@ O diagrama tem sete partes, uma para cada HTA. Todas seguem o mesmo padrão: par
 
 ### Parte 2 – Consulta de animais para adoção (HTA 2)
 
-![Parte 2](imagens/molic-parte-2.png)
+![Parte 2](<img width="1876" height="5500" alt="image" src="https://github.com/user-attachments/assets/d9d24efc-4b41-45a1-873b-bc0c71344489" />)
 
 **Resumo da parte:** O interessado acessa a área pública, consulta o catálogo de animais disponíveis, vê os dados de um animal específico e, se tiver interesse, recebe o link que o leva ao WhatsApp dos voluntários do GAPI.
 
@@ -107,7 +108,7 @@ O diagrama tem sete partes, uma para cada HTA. Todas seguem o mesmo padrão: par
 
 ### Parte 3 – Gerenciamento do cadastro dos animais (HTA 3)
 
-![Parte 3](imagens/molic-parte-3.png)
+![Parte 3](<img width="1844" height="5512" alt="image" src="https://github.com/user-attachments/assets/9192b554-173a-4f53-937f-00b3004e0072" />)
 
 **Resumo da parte:** O voluntário acessa a área de gerenciamento, escolhe entre cadastrar um novo animal, atualizar informações ou atualizar a disponibilidade, preenche os dados e salva, o que atualiza o catálogo público.
 
@@ -143,7 +144,7 @@ O diagrama tem sete partes, uma para cada HTA. Todas seguem o mesmo padrão: par
 
 ### Parte 4 – Registro e formalização da adoção (HTA 4)
 
-![Parte 4](imagens/molic-parte-4.png)
+![Parte 4](<img width="1920" height="5500" alt="image" src="https://github.com/user-attachments/assets/258bdfb9-c50c-4c57-8c44-9b9ec7538c9c" />)
 
 **Resumo da parte:** Depois do contato externo, o voluntário seleciona o animal adotado, registra os dados do adotante, formaliza o termo de adoção e o sistema gera a carteirinha digital do pet, vinculada ao tutor.
 
@@ -179,7 +180,7 @@ O diagrama tem sete partes, uma para cada HTA. Todas seguem o mesmo padrão: par
 
 ### Parte 5 – Acompanhamento do animal após a adoção (HTA 5)
 
-![Parte 5](imagens/molic-parte-5.png)
+![Parte 5](<img width="1892" height="4496" alt="image" src="https://github.com/user-attachments/assets/838cb236-9d76-4b3f-af32-35e63b8bcca9" />)
 
 **Resumo da parte:** O tutor entra na área do tutor, consulta a carteirinha digital do animal adotado e escolhe o que acompanhar: vacinação, visitas ou informações gerais de acompanhamento.
 
@@ -212,7 +213,7 @@ O diagrama tem sete partes, uma para cada HTA. Todas seguem o mesmo padrão: par
 
 ### Parte 6 – Levantamento financeiro das feiras (HTA 6)
 
-![Parte 6](imagens/molic-parte-6.png)
+![Parte 6](<img width="1848" height="5496" alt="image" src="https://github.com/user-attachments/assets/5850aecf-edb9-48d3-b6a1-84934d2292be" />)
 
 **Resumo da parte:** O voluntário acessa a gestão financeira, escolhe a feira ou o evento, registra valores arrecadados e despesas e salva o levantamento, obtendo o resultado financeiro do evento. A cena de escolha também permite consultar o histórico.
 
@@ -248,7 +249,7 @@ O diagrama tem sete partes, uma para cada HTA. Todas seguem o mesmo padrão: par
 
 ### Parte 7 – Acessibilidade e personalização (HTA 7)
 
-![Parte 7](imagens/molic-parte-7.png)
+![Parte 7](<img width="1880" height="4728" alt="image" src="https://github.com/user-attachments/assets/beead857-3010-4644-9564-35a0fd2b49d4" />)
 
 **Resumo da parte:** O usuário abre as configurações de acessibilidade, personaliza a aparência, os estímulos sensoriais, as notificações e a comunicação, e o sistema salva e mantém as preferências nas próximas utilizações.
 
