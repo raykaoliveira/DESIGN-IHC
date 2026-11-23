@@ -252,10 +252,13 @@ As informações coletadas servirão como base para a construção das personas,
 
 <img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/c068bb22-925b-4ac4-8d56-cd09e733202e" />
 
+---
+
+<div align="center">
   Integrante do grupo 6 distribuindo o folheto de pesquisa e orientando os participantes do questionário.
 
   Data da realização: 09/11/2026 e 10/11/2026.
-
+</div> 
 
 
 
