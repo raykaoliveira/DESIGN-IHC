@@ -1,5 +1,8 @@
+<div align= "center">
 
-# 1. Briefing com o Cliente
+  # 1. Briefing com o Cliente 
+
+</div>
 
 ## 1.1 Identificação do cliente
 
@@ -99,7 +102,7 @@ Para isso, são elaboradas fichas de cadastro dos interessados em adotar, dos tu
 
   As dificuldades relatadas ocasionam atrasos na execução das atividades, sobrecarga dos voluntários e redução do tempo disponível para a realização das tarefas, comprometendo a organização do trabalho.
 
-### Necessidades e expectativas
+### Necessidades e expectativas 
 - O que a organização gostaria de melhorar?
 
   A representante demonstrou interesse em melhorar os seguintes aspectos:
@@ -189,8 +192,18 @@ Para isso, são elaboradas fichas de cadastro dos interessados em adotar, dos tu
 
   A representante destacou que algumas pessoas que colaboram com a organização não desejam ter seus nomes divulgados. Portanto, a solução deverá respeitar a privacidade e as preferências dos colaboradores quanto à exposição de suas informações pessoais.
 
+## 1.3 Alinhamento do problema
 
-## 1.3 Síntese das informações obtidas
+Com base nas informações obtidas durante a entrevista,
+a equipe organizou os principais aspectos da demanda
+apresentada pelo GAPI, buscando compreender o problema
+e as necessidades que deverão orientar as próximas
+etapas do projeto.
+
+  <img width="1021" height="1750" alt="1" src="https://github.com/user-attachments/assets/d6562b36-7b74-43db-99d3-64e30cd25839" />
+  <img width="1021" height="1750" alt="2" src="https://github.com/user-attachments/assets/2df1c5ad-89b0-43d9-adc2-9b288dacf891" />
+
+## 1.4 Síntese das informações obtidas
 
 ### Apresentação e contexto do cliente
 
@@ -234,126 +247,14 @@ Em relação à privacidade, existem informações internas que precisam ter ace
 
 Não foram identificadas, durante a entrevista, informações suficientes sobre a infraestrutura tecnológica disponível ou possíveis limitações de acesso à internet.
 
-## 1.4 Alinhamento do problema
-
-Com base nas informações obtidas durante a entrevista,
-a equipe organizou os principais aspectos da demanda
-apresentada pelo GAPI, buscando compreender o problema
-e as necessidades que deverão orientar as próximas
-etapas do projeto.
-
-### Funcionalidade esperada
-
-Desenvolvimento de uma solução digital para auxiliar na gestão interna do GAPI, contemplando:
- - Organização e gerenciamento dos voluntários e de sua participação nas atividades;
- - Controle financeiro de doações, vendas e demais arrecadações;
- - Organização de reuniões, atividades e comunicados internos;
- - Gerenciamento de contatos de antigos apoiadores e possíveis patrocinadores;
- - Apoio à divulgação das ações, campanhas e eventos da organização.
-
-### Para quem?
-
- - Líder e responsáveis pela administração do GAPI;
- - Voluntários que participam das atividades da organização;
- - Pessoas interessadas em colaborar, apoiar ou realizar doações;
- - Pessoas interessadas em conhecer o trabalho do grupo e adotar animais.
-
-
-### Cenário 
-
-A solução será utilizada no contexto das atividades cotidianas do GAPI, principalmente na organização interna dos voluntários, no planejamento de eventos e feiras de adoção, no acompanhamento das arrecadações financeiras e na divulgação das iniciativas.
-
-Atualmente, grande parte dessas atividades é organizada por meio de grupos de WhatsApp, documentos do Word e redes sociais. A solução deverá auxiliar na centralização dessas informações e facilitar o acesso aos registros necessários.
-
-
-### Problemas identificados
-
- - Centralização de diferentes informações no WhatsApp, dificultando a localização e a organização dos registros;
- - Dificuldade de acompanhar a participação efetiva dos voluntários;
- - Falta de organização sistemática das informações financeiras e das arrecadações;
- - Dificuldade na elaboração e divulgação de campanhas e ações;
- - Perda ou dificuldade de recuperação de contatos de antigos apoiadores;
- - Sobrecarga dos voluntários devido à quantidade de tarefas administrativas e operacionais.
-
-### Prioridades
-
- - Organização e centralização das informações internas do GAPI;
- - Controle financeiro de doações, vendas e arrecadações;
- - Gerenciamento e acompanhamento da participação dos voluntários;
- - Organização de reuniões, atividades e eventos;
-
-### Dados utilizados
-
- - Dados cadastrais dos voluntários;
- - Registros de participação e disponibilidade dos voluntários;
- - Informações sobre reuniões, eventos e atividades;
- - Registros de doações, vendas e arrecadações financeiras;
-
-### Fontes de informações
-
- - WhatsApp: comunicação interna e organização das atividades;
- - Microsoft Word: fichas de adoção, cadastro de tutores e lares temporários;
- - Instagram e Facebook: divulgação das ações e comunicação com o público externo;
- - Registros internos da organização: informações financeiras, contatos e atividades realizadas;
- - Entrevista com a liderança do GAPI: levantamento das necessidades e dificuldades da organização.
-
-###  Integrações
-
-Não foram identificadas integrações obrigatórias com outros sistemas durante a entrevista.
-
-Como possibilidades a serem investigadas, podem ser consideradas:
- - Integração com WhatsApp para facilitar o acesso aos comunicados;
- - Integração com redes sociais para apoiar a divulgação das ações;
- - Possibilidade de exportação de relatórios financeiros e administrativos.
-
-### Padrão prévio
-
-A organização já utiliza alguns documentos padronizados em Microsoft Word, especialmente fichas de adoção, cadastro de tutores e lares temporários, além do termo de responsabilidade para adoção.
-
-A solução deverá considerar os procedimentos e documentos já utilizados pelo GAPI, buscando preservar os processos que funcionam adequadamente.
-
-
-### Contato técnico
-
-Líder do GAPI e responsável pelo contato durante o levantamento de requisitos.
-
-Não foi identificado um responsável técnico pela infraestrutura ou pelos recursos tecnológicos da organização.
-
-### Restrições de acesso
-
-- Informações internas e administrativas deverão possuir acesso restrito;
-- Dados financeiros deverão ser acessíveis apenas às pessoas autorizadas;
-- Informações pessoais dos voluntários deverão ser protegidas;
-- A divulgação de nomes de colaboradores deverá respeitar a autorização dos envolvidos;
-- A solução deverá considerar a limitação de recursos financeiros da organização.
-
-### Parâmetro de sucesso
-
-A solução será considerada bem-sucedida se contribuir para:
- - Melhorar a organização e a localização das informações internas;
- - Facilitar o controle e a prestação de contas das arrecadações;
- - Permitir um acompanhamento mais eficiente da participação dos voluntários;
- - Reduzir a sobrecarga administrativa dos integrantes;
- - Facilitar a organização de atividades e eventos;
- - Ampliar a capacidade de divulgação e mobilização de apoiadores.
-
 ## 1.5 Registro da realização da reunião
 
 <img width="1448" height="1086" alt="Pet-Themed Indoor Meeting Room" src="https://github.com/user-attachments/assets/0698dce8-663e-4dcd-b4ba-16d25e6701b9" />
 
-
+---
+<div align="center">
 A entrevista foi realizada em 04/11/2026, com a
 representante do GAPI, responsável por apresentar o
 funcionamento da organização e suas principais
 necessidades.
-
-
-
-## 1.6 Validação do briefing
-
-- **Responsável pela validação:** Maricleide Sampaio Neves.
-- **Data:** 04/11/2026.
-- **Confirmação do cliente:** Sim. A representante
-  confirmou que as informações registradas correspondem
-  à realidade da organização.
-
+</div>
