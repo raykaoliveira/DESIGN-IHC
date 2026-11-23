@@ -18,13 +18,13 @@ Mapeamento dos perfis representativos identificados durante a etapa de pesquisa.
 <table>
 <tr>
 <td align="center" width="33%">
-<h1>03</h1>
+<h1>04</h1>
 <strong>PERSONAS</strong><br/>
 <sub>Perfis identificados</sub>
 </td>
   
 <td align="center" width="33%">
-<h1>03</h1>
+<h1>04</h1>
 <strong> FICHAS </strong><br/>
 <sub>Análises Individuais</sub>
 </td>
@@ -68,6 +68,18 @@ Tem interesse na adoção responsável de pets.
 🟨 Voluntária com Necessidade de Acessibilidade
 
 Necessidade de Utilização de recursos acessíveis para agilizar seus serviços como voluntária.
+
+</td>
+<td width="50%" valign="top">
+
+### 04 — Pâmela Martins
+
+**45 anos | Professora**
+
+🟪 Líder GAPI
+
+Responsável pela organização de todas as informações do grupo.
+
 
 </td>
 </tr>
@@ -233,6 +245,54 @@ Para apaziguar este sentimento, está em busca de algum animal para adoção. No
 - S2: Valoriza recursos que organizam informações por data, permitem consultar textos novamente, marcar tarefas concluídas, controlar lembretes e editar registros quando existem alterações. 
 
 - S3: Considera inconveniente precisar atualizar manualmente a agenda a partir de informações recebidas em conversas diferentes. Também considera dispensáveis notificações excessivas, animações decorativas, reprodução automática de conteúdos e informações duplicadas. 
+
+</details>
+
+---
+
+<details>
+<summary><strong>04 | PÂMELA MARTINS — LÍDER GAPI (45 ANOS)</strong></summary>
+
+ <img width="2188" height="3750" alt="personas (25 x 32 cm) (21 x 36 cm)" src="https://github.com/user-attachments/assets/e3d593ca-4bea-4439-a460-1097c1edd267" />
+
+### IDENTIFICAÇÃO
+- **Nome:** Pâmela Martins
+- **Idade:** 45 anos
+- **Perfil:** Líder GAPI
+
+### QUEM
+
+- Pâmela é líder do GAPI desde sua ascensão, ela concilia o trabalho como professora do ensino fundamental, vida pessoal e o grupo da melhor maneira que consegue com os seus pequenos intervalos durante a semana. 
+Ela preza pela organização para otimizar seus trabalhos, bem como organiza até mesmo os seus momentos de lazer para aproveitar cada segundo. 
+
+### CONTEXTO
+
+- Pâmela tem encontrado dificuldades em manter o GAPI organizado, ultimamente tem percebido em como tem se concentrado nas formas de planejamento do grupo ao inv´és da ordenação em si. Muitas informações financeiras da última feira ainda estavam incompletas e a divulgação destes eventos ainda não tinham alcançado grande número nas redes sociais.
+
+
+### PROBLEMAS
+
+- P1: Com tantas informações para ordenar, Pâmela não sabe por onde começar. 
+
+- P2: Como Pâmela trabalha,  o seu tempo para o grupo é reduzido.
+
+- P3: Mesmo enviando informações no grupo do whatsapp, existe a possibilidade de Pâmela perder uma ou duas dessas informações compartilhadas, pois se misturam com as conversas paralelas ou excesso de grupos. 
+ 
+### EXPERIÊNCIA COM TECNOLOGIA
+
+- E1: Utiliza o Whatsapp para passar as informações relevantes para os voluntários do GAPI, como marcar uma reunião de levantamento financeiro de forma presencial e manual, mas também recebe dados em massa do seu trabalho, além de utilizar o mesmo aplicativo para uso pessoal.
+  
+- E2: Tenta utilizar o instagram e Facebook para promover a divulgação das feiras e eventos do grupo, mas possui pouco tempo para isso, preferindo focar no ato dos eventos em si.
+  
+- E3: Usa o World para atualizar os registros de adoção, mas ela não faz o preenchimento dos mesmos de forma online e sim manual.  
+
+### SOLUÇÕES
+
+- S1: Pâmela pode enviar um relatório para cada voluntário que participou ativamente das arrecadações, assim pode se preocupar apenas em realizar a parte final do levantamento.
+
+- S2: Ter um lugar virtual onde mais de um voluntário pode atualizar as informações dos pets poderia ajudar muito na divulgação. 
+
+- S3: Ter os registros de forma online onde o adotante pode apenas assinar, sem gastar tempo e dinheiro com impressão pode otimizar o serviço e repasse de informações.
 
 </details>
 
