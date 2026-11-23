@@ -3,9 +3,9 @@
 
 # MAPAS DE OBJETIVOS DOS USUÁRIOS
 
-<img src="https://img.shields.io/badge/PROJETO-GAPI-167D72?style=for-the-badge">
+<img src="https://img.shields.io/badge/TP2-DESIGN THINKING-167D72?style=for-the-badge">
 <img src="https://img.shields.io/badge/ARTEFATO-MAPAS_DE_OBJETIVOS-70CDB5?style=for-the-badge">
-<img src="https://img.shields.io/badge/DISCIPLINA-DESIGN_IHC-E8B7C8?style=for-the-badge">
+<img src="https://img.shields.io/badge/DISCIPLINA-IHC-E8B7C8?style=for-the-badge">
 
 <br>
 
@@ -159,6 +159,11 @@ acessibilidade sensorial, enquanto o perfil LG concentra
 as responsabilidades de administração e gerenciamento
 dos eventos do GAPI.
 
+---
+
+<div align="center">
+
+**DESIGN IHC | SISTEMAS DE INFORMAÇÃO & ENGENHARIA DE SOFTWARE**
 
 </div>
 
