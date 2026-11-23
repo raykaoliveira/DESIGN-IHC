@@ -1,11 +1,10 @@
-
-# Personas
-
 <div align="center">
 
+# Personas 
 
-
-# PERFIS DOS USUÁRIOS
+<img src="https://img.shields.io/badge/TP2-DESIGN THINKING-167D72?style=for-the-badge">
+<img src="https://img.shields.io/badge/ARTEFATO-PERSONAS-70CDB5?style=for-the-badge">
+<img src="https://img.shields.io/badge/DISCIPLINA-IHC-E8B7C8?style=for-the-badge">
 
 **Conhecendo os usuários, suas características e necessidades.**
 
