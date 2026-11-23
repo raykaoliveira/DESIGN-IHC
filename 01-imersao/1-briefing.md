@@ -258,3 +258,11 @@ representante do GAPI, responsável por apresentar o
 funcionamento da organização e suas principais
 necessidades.
 </div>
+
+---
+
+<div align="center">
+
+**DESIGN IHC | SISTEMAS DE INFORMAÇÃO & ENGENHARIA DE SOFTWARE**
+
+</div>
