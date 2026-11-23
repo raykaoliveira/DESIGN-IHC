@@ -1,4 +1,9 @@
-# 1. Pesquisas complementares
+<div align="center">
+
+# 1. Pesquisas Complementares
+
+</div>
+
 
 Para realizar as pesquisas complementares, o grupo optou por realizar questionários através do google forms e compartilhou de forma online para os voluntários, explicando a importância da participação dos mesmos. Foram consideradas a questão de disponibilidade dos integrantes, que trabalham em regime CLT e a grande maioria também estuda. Portanto, o questionário online foi a melhor opção neste cenário.
 
@@ -260,6 +265,13 @@ As informações coletadas servirão como base para a construção das personas,
   Data da realização: 09/11/2026 e 10/11/2026.
 </div> 
 
+---
+
+<div align="center">
+
+**DESIGN IHC | SISTEMAS DE INFORMAÇÃO & ENGENHARIA DE SOFTWARE**
+
+</div>
 
 
 
