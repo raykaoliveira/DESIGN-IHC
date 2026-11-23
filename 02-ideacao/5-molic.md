@@ -130,7 +130,7 @@ O diagrama tem dez partes, uma para cada HTA. Todas seguem o mesmo padrão: part
 
 ---
 
-<div align='center">
+<div align="center">
   
 ### Parte 3 – Gerenciamento do cadastro dos animais (HTA 3)
 
