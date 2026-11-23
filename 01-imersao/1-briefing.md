@@ -1,10 +1,20 @@
 <div align= "center">
 
-  # 1. Briefing com o Cliente 
+  # Briefing com o Cliente 
 
 </div>
 
-## 1.1 Identificação do cliente
+## Sumário
+
+01. Identificação do cliente
+02. Roteiro utilizado no briefing
+03. Alinhamento do problema
+04. Síntese das informações obtidas
+05. Registro da realização da reunião
+
+---
+
+## 01. Identificação do cliente
 
 - **Organização:** GAPI – Grupo de Ajuda aos Pets de Itacoatiara.
 - **Responsável pelo contato:** Representante do GAPI
@@ -12,7 +22,7 @@
 - **Data da entrevista:** 04/11/2026.
 - **Integrantes da equipe:** Rayka Oliveira Pantoja e Maricleide Sampaio Neves.
 
-## 1.2 Roteiro utilizado no briefing
+## 02. Roteiro utilizado no briefing
 
 Nesta etapa, foi elaborado um roteiro semiestruturado
 com o objetivo de compreender o funcionamento do GAPI,
@@ -192,7 +202,7 @@ Para isso, são elaboradas fichas de cadastro dos interessados em adotar, dos tu
 
   A representante destacou que algumas pessoas que colaboram com a organização não desejam ter seus nomes divulgados. Portanto, a solução deverá respeitar a privacidade e as preferências dos colaboradores quanto à exposição de suas informações pessoais.
 
-## 1.3 Alinhamento do problema
+## 03. Alinhamento do problema
 
 Com base nas informações obtidas durante a entrevista,
 a equipe organizou os principais aspectos da demanda
@@ -203,7 +213,7 @@ etapas do projeto.
   <img width="1021" height="1750" alt="1" src="https://github.com/user-attachments/assets/d6562b36-7b74-43db-99d3-64e30cd25839" />
   <img width="1021" height="1750" alt="2" src="https://github.com/user-attachments/assets/2df1c5ad-89b0-43d9-adc2-9b288dacf891" />
 
-## 1.4 Síntese das informações obtidas
+## 04. Síntese das informações obtidas
 
 ### Apresentação e contexto do cliente
 
@@ -247,7 +257,7 @@ Em relação à privacidade, existem informações internas que precisam ter ace
 
 Não foram identificadas, durante a entrevista, informações suficientes sobre a infraestrutura tecnológica disponível ou possíveis limitações de acesso à internet.
 
-## 1.5 Registro da realização da reunião
+## 05. Registro da realização da reunião
 
 <img width="1448" height="1086" alt="Pet-Themed Indoor Meeting Room" src="https://github.com/user-attachments/assets/0698dce8-663e-4dcd-b4ba-16d25e6701b9" />
 
