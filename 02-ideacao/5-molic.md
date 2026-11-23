@@ -38,8 +38,7 @@ O diagrama tem sete partes, uma para cada HTA. Todas seguem o mesmo padrão: par
 
 ### Parte 1 – Acesso ao aplicativo (HTA 1)
 
-![Parte 1](<img width="8264" height="8040" alt="image" src="https://github.com/user-attachments/assets/4d92c741-f82e-4fc7-b255-001f85c7dc78" />
-)
+![Parte 1](<img width="426" height="1090" alt="image" src="https://github.com/user-attachments/assets/e1a50c49-9839-458b-ba4c-dfe2befcb96f" />)
 
 **Resumo da parte:** O usuário entra no aplicativo, escolhe o tipo de acesso (área pública ou área do voluntário) e, no caso do voluntário, informa suas credenciais para chegar ao ambiente do seu perfil. Atende ao objetivo de acessar o aplicativo conforme o perfil.
 
