@@ -2,6 +2,11 @@
 
   # Metamensagens
 
+<img src="https://img.shields.io/badge/TP2-DESIGN THINKING-167D72?style=for-the-badge">
+<img src="https://img.shields.io/badge/ARTEFATO-METAMENSAGEM-70CDB5?style=for-the-badge">
+<img src="https://img.shields.io/badge/DISCIPLINA-IHC-E8B7C8?style=for-the-badge">
+
+
 > Esta seção apresenta as metamensagens elaboradas a partir das quatro personas definidas durante a etapa de ideação. O objetivo é representar a comunicação do designer com os usuários por meio da solução digital proposta, considerando suas necessidades, objetivos e formas de utilização.
 
 </div>
