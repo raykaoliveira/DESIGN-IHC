@@ -1,4 +1,8 @@
-# Matriz CSD  
+<div align="center">
+
+# Matriz CSD
+
+</div>
 
 A Matriz CSD (Certezas, Suposições e Dúvidas) foi utilizada pela equipe paraa alinhar, mapear e direcionar o conhecimento atual sobre as informações coletadas pós briefing, afim de direcionar as pesquisas complementares de forma estratégica 
 
@@ -13,7 +17,15 @@ A Matriz CSD (Certezas, Suposições e Dúvidas) foi utilizada pela equipe paraa
 | **C6.** O GAPI deseja recuperar e organizar os contatos de antigos apoiadores. |  | **D6.** Como são organizadas as solicitações de pessoas interessadas em colaborar com o grupo? |
 
 ----
+
 <div align="center">
   <img width="560" height="560" alt="MATRIZ CSD" src="https://github.com/user-attachments/assets/bac7ed51-2a4c-44bd-b3db-28ca68fcfcb0" />
 </div>
 
+---
+
+<div align="center">
+
+**DESIGN IHC | SISTEMAS DE INFORMAÇÃO & ENGENHARIA DE SOFTWARE**
+
+</div>
