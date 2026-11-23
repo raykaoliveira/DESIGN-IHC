@@ -1,10 +1,18 @@
+<div align="center">
+  
 # Diagramas MoLIC
 
-## 1. Introdução
+<img src="https://img.shields.io/badge/TP2-DESIGN THINKING-167D72?style=for-the-badge">
+<img src="https://img.shields.io/badge/ARTEFATO-MOLIC-70CDB5?style=for-the-badge">
+<img src="https://img.shields.io/badge/DISCIPLINA-IHC-E8B7C8?style=for-the-badge">
+
+</div>
+
+## 01. Introdução
 
 Este documento apresenta a modelagem da interação entre usuários e o aplicativo do GAPI com a linguagem MoLIC (*Modeling Language for Interaction as Conversation*). O diagrama foi construído a partir das tarefas definidas nos sete HTAs e representa, em forma de conversa, o que o usuário diz ao sistema (`u:`) e como o sistema responde (`d:`) em cada funcionalidade. Primeiro é apresentada a visão geral do diagrama completo e, em seguida, cada parte é ampliada e explicada.
 
-## 2. Notação utilizada
+## 02. Notação utilizada
 
 | Elemento | Representação | Significado |
 |---|---|---|
@@ -18,12 +26,13 @@ Este documento apresenta a modelagem da interação entre usuários e o aplicati
 | Seta tracejada | transição | saída ou cancelamento da funcionalidade |
 | `XOR` | operador | escolha exclusiva entre as opções |
 
-## 3. Visão geral do diagrama completo
+## 03. Visão geral do diagrama completo
 
 <img width="3121" height="1358" alt="image" src="https://github.com/user-attachments/assets/2972977a-4836-4384-b850-3209f037bb2b" />
 
+[Adiciona aqui a segunda parte (molic da hta 8,9 e 10)]
 
-O diagrama tem sete partes, uma para cada HTA. Todas seguem o mesmo padrão: partem do **Menu inicial** (acesso ubíquo, em cinza), que permite entrar em qualquer funcionalidade e sair do aplicativo com `u: Sair`. Dentro de cada parte, o usuário avança por cenas conectadas por processos do sistema: ele envia `u: Prosseguir`, o sistema processa e responde com um `d:` que leva à cena seguinte. Setas de retorno permitem corrigir uma escolha e setas tracejadas permitem sair da funcionalidade ou cancelar a operação, voltando ao Menu inicial.
+O diagrama tem dez partes, uma para cada HTA. Todas seguem o mesmo padrão: partem do **Menu inicial** (acesso ubíquo, em cinza), que permite entrar em qualquer funcionalidade e sair do aplicativo com `u: Sair`. Dentro de cada parte, o usuário avança por cenas conectadas por processos do sistema: ele envia `u: Prosseguir`, o sistema processa e responde com um `d:` que leva à cena seguinte. Setas de retorno permitem corrigir uma escolha e setas tracejadas permitem sair da funcionalidade ou cancelar a operação, voltando ao Menu inicial.
 
 | Parte | Funcionalidade | HTA relacionado |
 |---|---|---|
@@ -34,14 +43,21 @@ O diagrama tem sete partes, uma para cada HTA. Todas seguem o mesmo padrão: par
 | 5 | Acompanhamento do animal após a adoção | HTA 5 |
 | 6 | Levantamento financeiro das feiras | HTA 6 |
 | 7 | Acessibilidade e personalização | HTA 7 |
+| 8 | Organização de eventos e relatórios | HTA 8 |
+| 9 | Organização de registros e assinaturas | HTA 9 |
+| 10 | Organizar a carteirinha digital | HTA 10 |
 
 ## 4. Detalhamento por partes
 
-### Parte 1 – Acesso ao aplicativo (HTA 1)
+<div align="center">
+
+  ### Parte 1 – Acesso ao aplicativo (HTA 1)
 
 <img width="426" height="1090" alt="image" src="https://github.com/user-attachments/assets/e1a50c49-9839-458b-ba4c-dfe2befcb96f" />
 
 **Resumo da parte:** O usuário entra no aplicativo, escolhe o tipo de acesso (área pública ou área do voluntário) e, no caso do voluntário, informa suas credenciais para chegar ao ambiente do seu perfil. Atende ao objetivo de acessar o aplicativo conforme o perfil.
+
+</div>
 
 **Cenas**
 
@@ -70,12 +86,17 @@ O diagrama tem sete partes, uma para cada HTA. Todas seguem o mesmo padrão: par
 
 **Relação com o HTA 1:** A cena *Identificar perfil* corresponde à tarefa 1 do HTA (visualizar as opções e selecionar acesso público ou de voluntário). A cena *Autenticar voluntário* cobre as tarefas 3 (acessar a área restrita, com matrícula e senha) e 4 (tratar falhas: mensagem de erro, correção dos dados e nova tentativa). A cena *Acesso liberado* corresponde às tarefas 2 e 3 (entrar na área pública ou no ambiente restrito).
 
+---
+
+<div align="center">
+  
 ### Parte 2 – Consulta de animais para adoção (HTA 2)
 
 <img width="450" height="1355" alt="image" src="https://github.com/user-attachments/assets/d04362af-a8c4-46fc-9c25-48738a4c640b" />
 
-
 **Resumo da parte:** O interessado acessa a área pública, consulta o catálogo de animais disponíveis, vê os dados de um animal específico e, se tiver interesse, recebe o link que o leva ao WhatsApp dos voluntários do GAPI.
+
+</div>
 
 **Cenas**
 
@@ -107,11 +128,17 @@ O diagrama tem sete partes, uma para cada HTA. Todas seguem o mesmo padrão: par
 
 **Relação com o HTA 2:** As quatro cenas correspondem às quatro tarefas do HTA: acessar o catálogo (1), visualizar os animais (2), consultar um animal específico (3) e iniciar contato com o GAPI (4). A conversa no WhatsApp acontece externamente e por isso não aparece como cena.
 
+---
+
+<div align='center">
+  
 ### Parte 3 – Gerenciamento do cadastro dos animais (HTA 3)
 
 <img width="441" height="1358" alt="image" src="https://github.com/user-attachments/assets/1ce0639e-53f0-499e-bdee-f1650d975e59" />
 
 **Resumo da parte:** O voluntário acessa a área de gerenciamento, escolhe entre cadastrar um novo animal, atualizar informações ou atualizar a disponibilidade, preenche os dados e salva, o que atualiza o catálogo público.
+
+</div>
 
 **Cenas**
 
@@ -143,11 +170,17 @@ O diagrama tem sete partes, uma para cada HTA. Todas seguem o mesmo padrão: par
 
 **Relação com o HTA 3:** A cena *Acessar gerenciamento* corresponde à tarefa 1 do HTA. *Escolher operação* representa a decisão entre as tarefas 2 (cadastrar), 3 (atualizar informações) e 4 (atualizar disponibilidade). *Preencher dados do animal* reúne as subtarefas de edição dessas três operações, e *Registro salvo* corresponde às subtarefas de salvar e atualizar o catálogo público.
 
+---
+
+<div align="center">
+
 ### Parte 4 – Registro e formalização da adoção (HTA 4)
 
 <img width="460" height="1355" alt="image" src="https://github.com/user-attachments/assets/7a9febcc-37e5-4246-aa1f-fff7f866a9eb" />
 
 **Resumo da parte:** Depois do contato externo, o voluntário seleciona o animal adotado, registra os dados do adotante, formaliza o termo de adoção e o sistema gera a carteirinha digital do pet, vinculada ao tutor.
+
+</div>
 
 **Cenas**
 
@@ -179,11 +212,17 @@ O diagrama tem sete partes, uma para cada HTA. Todas seguem o mesmo padrão: par
 
 **Relação com o HTA 4:** As quatro cenas seguem as quatro tarefas do HTA: iniciar o registro (1), registrar os dados do adotante (2), registrar o termo de adoção (3) e gerar a carteirinha digital (4). A decisão principal do HTA, a conferência dos dados, aparece na transição de retorno para corrigir inconsistências.
 
+---
+
+<div align="center">
+  
 ### Parte 5 – Acompanhamento do animal após a adoção (HTA 5)
 
 <img width="453" height="1104" alt="image" src="https://github.com/user-attachments/assets/c7bc4e57-317e-46d8-8622-5eed171ec5da" />
 
 **Resumo da parte:** O tutor entra na área do tutor, consulta a carteirinha digital do animal adotado e escolhe o que acompanhar: vacinação, visitas ou informações gerais de acompanhamento.
+
+</div>
 
 **Cenas**
 
@@ -212,11 +251,17 @@ O diagrama tem sete partes, uma para cada HTA. Todas seguem o mesmo padrão: par
 
 **Relação com o HTA 5:** A cena *Consultar carteirinha* corresponde à tarefa 1 do HTA. *Escolher acompanhamento* representa a escolha entre as tarefas 2 (vacinação), 3 (visitas) e 4 (informações), que no HTA são realizadas em conjunto (`2+3+4`). *Acompanhar animal* detalha o conteúdo dessas três tarefas. A combinação da visita ocorre externamente, e a data registrada pelo voluntário gera a notificação ao tutor.
 
+---
+
+<div align="center">
+
 ### Parte 6 – Levantamento financeiro das feiras (HTA 6)
 
 <img width="442" height="1354" alt="image" src="https://github.com/user-attachments/assets/3a41ccca-9304-49b4-a923-af72da4d74f8" />
 
 **Resumo da parte:** O voluntário acessa a gestão financeira, escolhe a feira ou o evento, registra valores arrecadados e despesas e salva o levantamento, obtendo o resultado financeiro do evento. A cena de escolha também permite consultar o histórico.
+
+</div>
 
 **Cenas**
 
@@ -248,12 +293,18 @@ O diagrama tem sete partes, uma para cada HTA. Todas seguem o mesmo padrão: par
 
 **Relação com o HTA 6:** As cenas correspondem às tarefas 1 (acessar a gestão financeira), 2 (identificar a feira), 3 e 4 (registrar as movimentações, conferir, confirmar e salvar) e à consulta do resultado (4.3). A tarefa 5, consultar levantamentos anteriores, aparece como a opção *Histórico financeiro* na escolha da cena *Identificar feira ou evento*, conforme a escolha `4/5` do plano do HTA.
 
+---
+
+<div align="center">
+
 ### Parte 7 – Acessibilidade e personalização (HTA 7)
 
 <img width="450" height="1162" alt="image" src="https://github.com/user-attachments/assets/2ce104fd-3bc1-43b0-9124-523134683c7e" />
 
 
 **Resumo da parte:** O usuário abre as configurações de acessibilidade, personaliza a aparência, os estímulos sensoriais, as notificações e a comunicação, e o sistema salva e mantém as preferências nas próximas utilizações.
+
+</div>
 
 **Cenas**
 
@@ -282,6 +333,128 @@ O diagrama tem sete partes, uma para cada HTA. Todas seguem o mesmo padrão: par
 
 **Relação com o HTA 7:** A cena *Acessar configurações* corresponde à tarefa 1 do HTA. *Personalizar experiência* reúne as tarefas 2 a 5 (aparência visual, estímulos sensoriais, notificações e comunicação) e *Preferências salvas* corresponde à tarefa 6 (salvar e manter as preferências).
 
+---
+
+<div align="center">
+
+### Parte 8 –  (HTA 8)
+
+<img
+
+
+**Resumo da parte:** 
+
+</div>
+
+**Cenas**
+
+| Cena | Diálogos | Papel no fluxo |
+|---|---|---|
+|  |  `d: ` |  |
+|  |  |  |
+|  | `d: ` |  |
+
+**Transições**
+
+| De | Para | Fala | Condição |
+|---|---|---|---|
+|  |  | `u: ` |  |
+|  |  | `u: ` |  |
+|  |  | `d: ` |  |
+|  |  | `u: ` |  |
+|  |  | `d: ` |  |
+|  |  | `u:`  |  |
+|  |  | `u: ` (tracejada) |  |
+|  |  | `u: ` (tracejada) |  |
+
+**Processos do sistema:**
+
+**Rupturas e recuperação:** 
+
+**Relação com o HTA 8:** 
+
+---
+
+<div align="center">
+
+### Parte 9 –  (HTA 9)
+
+<img
+
+
+**Resumo da parte:** 
+
+</div>
+
+**Cenas**
+
+| Cena | Diálogos | Papel no fluxo |
+|---|---|---|
+|  |  `d: ` |  |
+|  |  |  |
+|  | `d: ` |  |
+
+**Transições**
+
+| De | Para | Fala | Condição |
+|---|---|---|---|
+|  |  | `u: ` |  |
+|  |  | `u: ` |  |
+|  |  | `d: ` |  |
+|  |  | `u: ` |  |
+|  |  | `d: ` |  |
+|  |  | `u:`  |  |
+|  |  | `u: ` (tracejada) |  |
+|  |  | `u: ` (tracejada) |  |
+
+**Processos do sistema:**
+
+**Rupturas e recuperação:** 
+
+**Relação com o HTA 9:** 
+
+---
+
+<div align="center">
+
+### Parte 10 –  (HTA 10)
+
+<img
+
+
+**Resumo da parte:** 
+
+</div>
+
+**Cenas**
+
+| Cena | Diálogos | Papel no fluxo |
+|---|---|---|
+|  |  `d: ` |  |
+|  |  |  |
+|  | `d: ` |  |
+
+**Transições**
+
+| De | Para | Fala | Condição |
+|---|---|---|---|
+|  |  | `u: ` |  |
+|  |  | `u: ` |  |
+|  |  | `d: ` |  |
+|  |  | `u: ` |  |
+|  |  | `d: ` |  |
+|  |  | `u:`  |  |
+|  |  | `u: ` (tracejada) |  |
+|  |  | `u: ` (tracejada) |  |
+
+**Processos do sistema:**
+
+**Rupturas e recuperação:** 
+
+**Relação com o HTA 10:** 
+
+---
+
 ## 5. Observações finais
 
 - Todas as partes partem do Menu inicial, o que permite entrar em qualquer funcionalidade a partir de qualquer ponto do aplicativo e sair com `u: Sair`.
@@ -289,3 +462,11 @@ O diagrama tem sete partes, uma para cada HTA. Todas seguem o mesmo padrão: par
 - As funcionalidades restritas (partes 3, 4 e 6) exigem login do voluntário, e a parte 5 exige a área do tutor, liberada após a formalização da adoção.
 - O contato por WhatsApp (parte 2) e a combinação de visitas (parte 5) acontecem fora do aplicativo e por isso não são modelados como cenas.
 - Os pontos a validar com os usuários são a clareza das mensagens de erro, a facilidade de cancelar operações e a compreensão do Menu inicial como acesso ubíquo.
+
+---
+
+<div align="center">
+
+**DESIGN IHC | SISTEMAS DE INFORMAÇÃO & ENGENHARIA DE SOFTWARE**
+
+</div>
