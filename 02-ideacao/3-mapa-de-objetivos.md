@@ -42,7 +42,7 @@ Os diagramas estão apresentados em dois conjuntos, contemplando os objetivos re
 
 <div align="center">
 
-<img width="1920" height="1100" alt="1" src="https://github.com/user-attachments/assets/62e703cd-da4f-45f0-8c40-cd1b3f3c593f" />
+<img width="1920" height="1100" alt="mapas de objetivos parte 1" src="https://github.com/user-attachments/assets/3fb7661f-48b3-4f2b-bfc5-0f25693437fc" />
 
 
 <sub>Figura 01 — Mapas de objetivos relacionados ao acesso, gerenciamento de animais, adoção, acompanhamento pós-adoção, gestão financeira e comunicação.</sub>
@@ -60,7 +60,7 @@ Os diagramas estão apresentados em dois conjuntos, contemplando os objetivos re
 
 <div align="center">
 
-<img width="1920" height="1100" alt="mapas de objetivos 2" src="https://github.com/user-attachments/assets/d74ebcc5-627f-4718-ac49-f80d040e4933" />
+<img width="1920" height="1100" alt="mapas de objetivos parte 2 (1)" src="https://github.com/user-attachments/assets/34a74882-5497-4de9-93a0-6b63b245e1b2" />
 
 
 <sub>Figura 02 — Mapas de objetivos relacionados à acessibilidade, gerenciamento de eventos, registros de adoção e carteirinha digital.</sub>
