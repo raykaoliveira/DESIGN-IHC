@@ -48,19 +48,19 @@ Relaciona-se à tarefa de identificação do perfil do usuário (HTA 1). No MoLI
 
 <div align="center">
   
-![Sketch 02](imagens/sketch-02.png)
+![Sketch 02](https://github.com/raykaoliveira/DESIGN-IHC/blob/main/03-prototipacao/fotos/Tela%202%20-%20Cat%C3%A1logo%20de%20animais.drawio.png?raw=true)
 
-*Figura 2 — Protótipo de baixa fidelidade da tela [Nome da Tela].*
+*Figura 2 — Protótipo de baixa fidelidade da tela de catálogo de animais.*
 
 </div>
 
 **Descrição:**
 
-[Descrever os componentes da interface e a finalidade da tela.]
+A tela apresenta os animais disponíveis para adoção por meio de cartões organizados em duas colunas. Cada cartão contém uma imagem, o nome do animal, sua espécie, idade e a opção de visualizar mais detalhes. Também possui um campo de busca para facilitar a localização de um animal específico.
 
 **Relação com HTA e MoLIC:**
 
-[Indicar a tarefa e a interação correspondente.]
+Relaciona-se à tarefa de visualizar animais disponíveis para adoção (HTA 2). No MoLIC, corresponde à cena de visualização dos animais, permitindo consultar o catálogo e selecionar um animal para obter mais informações.
 
 ### 3.3. Sketch 03 — [Nome da Tela]
 
