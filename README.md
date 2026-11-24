@@ -102,19 +102,19 @@ Design-IHC/
 ## Resumo das etapas
 
 ### 1. Imersão
-- **Briefing:** [Quantas conversas, com quem (sem identificar) e as principais informações obtidas.]
-- **Matriz CSD:** [Quantidade de certezas, suposições e dúvidas e como orientaram a pesquisa.]
-- **Pesquisa com usuários:** [Método usado, número de participantes e principais achados.]
+- **Briefing:** Quantas conversas, com quem (sem identificar) e as principais informações obtidas.
+- **Matriz CSD:** Quantidade de certezas, suposições e dúvidas e como orientaram a pesquisa.
+- **Pesquisa com usuários:** Método usado, número de participantes e principais achados.
 
 ### 2. Ideação
-- **Personas:** [Quantidade de personas, perfis e qual representa necessidade de acessibilidade.]
-- **Metamensagem:** [Uma frase sobre a mensagem que o designer transmite ao usuário do GAPI.]
-- **Mapa de objetivos:** [Principais objetivos por persona.]
+- **Personas:** Quantidade de personas, perfis e qual representa necessidade de acessibilidade.
+- **Metamensagem:** Uma frase sobre a mensagem que o designer transmite ao usuário do GAPI.
+- **Mapa de objetivos:** Principais objetivos por persona.
 - **HTAs:** 10 HTAs, um para cada funcionalidade principal listada acima.
 - **MoLIC:** 10 diagramas, um por HTA, com visão geral e detalhamento por cena.
 
 ### 3. Prototipação
-- **Sketches:** 10 esboços de telas de baixa fidelidade (versão A), coerentes com o MoLIC e os HTAs: Acesso ao aplicativo, Catálogo de animais, Cadastro de animal, Registro de adoção, Acompanhamento do animal, Financeiro das feiras, Acessibilidade, Eventos e relatórios, Registros e assinaturas, Carteirinha digital. A versão alternativa (B) cobre os 10 fluxos do GAPI e permite comparar decisões de design.
+- **Sketches:** 5 esboços de telas de baixa fidelidade (versão A), coerentes com o MoLIC e os HTAs: Acesso ao aplicativo, Catálogo de animais, Cadastro de animal, Registro de adoção, Acompanhamento do animal, Financeiro das feiras, Acessibilidade, Eventos e relatórios, Registros e assinaturas, Carteirinha digital. A versão alternativa (B) cobre os 10 fluxos do GAPI e permite comparar decisões de design.
 
 ---
 
@@ -124,8 +124,8 @@ Design-IHC/
 |------------|-----|
 | GitHub | Versionamento e organização do trabalho |
 | Draw.io | Sketches, HTAs, MoLIC e mapa de objetivos |
-| [Google Forms / outra] | Pesquisa com usuários |
-| [Canva / Figma / outra] | Personas |
+| Google Forms | Pesquisa com usuários |
+| Canva /outra] | Personas |
 
 ---
 
