@@ -1,9 +1,13 @@
 # GAPI — Design de IHC
 
 **Sistema:** GAPI (Grupo de Apoio e Proteção aos Animais)
+
 **Disciplina:** Interação Humano-Computador (IHC) — ICET/UFAM
+
 **Professor:** Prof. Dr. Andrey Rodrigues
+
 **Trabalho:** TP2 — Design de IHC
+
 **Semestre:** 2026/2
 
 <!-- Opcional: imagem de destaque (por exemplo, a Tela 1 exportada) -->
