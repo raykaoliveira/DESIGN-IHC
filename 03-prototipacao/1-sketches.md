@@ -207,61 +207,142 @@ A relação entre os sketches, os diagramas HTA e MoLIC permite manter a coerên
 
 ## 04. Versões Alternativas das Telas
 
-Com o objetivo de explorar diferentes possibilidades de organização da interface, foram propostas versões alternativas para algumas telas do sistema.
+Nesta seção, são apresentadas representações complementares das interfaces do sistema GAPI, desenvolvidas para detalhar etapas específicas dos fluxos de interação propostos nos diagramas HTA e MoLIC.
 
-Essas alternativas permitem comparar diferentes disposições dos elementos visuais e analisar sua correspondência com os modelos de interação definidos anteriormente.
+As telas complementam os sketches anteriormente apresentados, demonstrando outras possibilidades de interação e organização dos elementos da interface. Cada representação está associada à funcionalidade correspondente, mantendo a coerência com as tarefas e os objetivos identificados durante a etapa de modelagem.
 
-### 4.1. Alternativa A — [Nome da Tela]
+4.1. Tela 2.3 — Visualizar animais
 
 <div align="center">
-  
-![Alternativa A](imagens/alternativa-a.png)
 
-*Figura 6 — Versão alternativa A da tela [Nome da Tela].*
+<img width="804" height="1638" alt="02 - Tela 2 3 · Visualizar animais" src="https://github.com/user-attachments/assets/eef0c825-7b3b-44dd-90a0-6aa6a8bbd978" />
+
+
+Figura 11 — Representação complementar da tela de visualização dos animais disponíveis para adoção.
 
 </div>
 
-**Descrição:**
+Descrição:
 
-[Apresentar as características desta versão e explicar as decisões de organização visual.]
+A tela apresenta uma listagem dos animais disponíveis para adoção, organizados em cartões individuais contendo fotografia, nome, espécie, porte, idade e características comportamentais. Também são apresentados indicadores de disponibilidade e a opção de visualizar mais informações sobre cada animal. A interface disponibiliza navegação para retornar à tela anterior e acesso às opções de ajuda e perfil do usuário.
 
-### 4.2. Alternativa B — [Nome da Tela]
+Relação com HTA e MoLIC:
+
+Relaciona-se à consulta de animais para adoção (HTA 2). No MoLIC, corresponde à Parte 2 — Consulta de animais para adoção, especificamente à etapa de visualização dos animais disponíveis no catálogo, permitindo que o usuário escolha um animal para consultar suas informações.
+
+4.2. Tela 2.4 — Consultar animal
 
 <div align="center">
-  
-![Alternativa B](imagens/alternativa-b.png)
 
-*Figura 7 — Versão alternativa B da tela [Nome da Tela].*
+<img width="804" height="1638" alt="03 - Tela 2 4 · Consultar animal" src="https://github.com/user-attachments/assets/f268436c-eb6a-40a6-be05-f3e04a5aa3a9" />
+
+Figura 12 — Representação complementar da tela de consulta individual do animal.
 
 </div>
 
-**Descrição:**
+Descrição:
 
-[Apresentar as características da segunda versão, destacando suas diferenças em relação à alternativa A.]
+A tela apresenta as informações detalhadas de um animal selecionado no catálogo. São exibidos seu nome, fotografia, disponibilidade para adoção, sexo, idade, porte e características de saúde e comportamento. A interface também disponibiliza a opção "Tenho interesse", permitindo que o usuário manifeste interesse na adoção, além das opções para escolher outro animal ou cancelar o interesse.
 
-### 4.3. Comparação das Alternativas
+Relação com HTA e MoLIC:
 
-A comparação entre as versões considera os princípios de usabilidade, comunicabilidade e experiência do usuário, além da coerência com os fluxos de interação definidos no MoLIC.
+Relaciona-se à tarefa de consultar as informações de um animal para adoção (HTA 2). No MoLIC, corresponde à Parte 2 — Consulta de animais para adoção, representando a etapa de visualização individual do animal e manifestação de interesse na adoção.
 
-| Critério | Alternativa A | Alternativa B |
-|---|---|---|
-| Organização dos elementos | [Análise] | [Análise] |
-| Facilidade de utilização | [Análise] | [Análise] |
-| Clareza das informações | [Análise] | [Análise] |
-| Correspondência com o MoLIC | [Análise] | [Análise] |
+4.3. Tela 3.5 — Preencher dados do animal
 
-**Considerações sobre as alternativas:**
+<div align="center">
 
-[Explicar as vantagens e limitações de cada proposta e, caso o grupo tenha realizado uma escolha, justificar a alternativa selecionada.]
+<img width="804" height="1638" alt="04 - Tela 3 5 · Preencher dados do animal" src="https://github.com/user-attachments/assets/78b3d2e7-2b0f-48bc-819f-5a4e0964488e" />
 
-## 05. Considerações Finais
+Figura 13 — Representação complementar da tela de preenchimento dos dados do animal.
 
-A elaboração dos sketches constitui uma etapa inicial da prototipação do sistema **[Nome do Sistema]**, permitindo representar visualmente as soluções desenvolvidas durante a ideação.
+</div>
 
-Os protótipos buscam manter correspondência com os objetivos dos usuários, as tarefas descritas nos HTAs e os fluxos de interação definidos no MoLIC.
+Descrição:
 
-A criação de versões alternativas também contribui para a discussão de diferentes possibilidades de design, permitindo identificar aspectos que poderão ser aprimorados nas próximas etapas de desenvolvimento da interface.
+A tela apresenta um formulário para cadastrar ou atualizar as informações de um animal no sistema. São disponibilizados campos para preenchimento do nome, características e informações adicionais, além de espaços destinados ao envio de fotografias. Também é possível definir a situação do animal como disponível ou indisponível. Ao finalizar, o voluntário pode salvar o cadastro, alterar a operação ou cancelar as alterações realizadas.
 
+Relação com HTA e MoLIC:
+
+Relaciona-se ao gerenciamento do cadastro dos animais (HTA 3). No MoLIC, corresponde à Parte 3 — Gerenciamento do cadastro dos animais, representando a etapa de preenchimento das informações necessárias para cadastrar ou atualizar os dados do animal.
+
+4.4. Tela 7.3 — Personalizar aparência
+
+<div align="center">
+
+<img width="804" height="1638" alt="05 - Tela 7 3 · Personalizar · Aparência" src="https://github.com/user-attachments/assets/babc7734-30a3-4230-ad47-59749d687455" />
+
+Figura 14 — Representação complementar da tela de personalização das configurações de aparência.
+
+</div>
+
+Descrição:
+
+A tela apresenta a primeira etapa do processo de personalização da acessibilidade, dedicada às configurações de aparência. O usuário pode ajustar o tamanho do texto, escolher o espaçamento entre os elementos, ativar ou desativar o alto contraste e selecionar diferentes opções de cores e fundos, como claro, escuro, suave e sépia. Uma área de pré-visualização permite observar as alterações antes de prosseguir para a próxima etapa.
+
+Relação com HTA e MoLIC:
+
+Relaciona-se à acessibilidade e personalização do sistema (HTA 7). No MoLIC, corresponde à Parte 7 — Acessibilidade e personalização, representando a etapa de configuração da aparência da interface, permitindo que o usuário adapte a apresentação visual conforme suas preferências.
+
+4.5. Tela 8.2 — Criar evento de arrecadação
+
+<div align="center">
+
+<img width="804" height="1638" alt="06 - Tela 8 2 · Criar evento de arrecadação" src="https://github.com/user-attachments/assets/de25bcdd-5548-4139-b903-b02583d4affb" />
+
+Figura 15 — Representação complementar da tela de criação de evento de arrecadação.
+
+</div>
+
+Descrição:
+
+A tela apresenta um formulário para criação de um novo evento de arrecadação. O voluntário pode informar o nome do evento, selecionar a data de realização e estabelecer uma meta financeira. Após preencher os campos necessários, é possível salvar as informações para registrar o evento no sistema. A interface também informa que os dados poderão ser alterados posteriormente.
+
+Relação com HTA e MoLIC:
+
+Relaciona-se à organização de eventos e relatórios (HTA 8). No MoLIC, corresponde à Parte 8 — Organização de eventos e relatórios, representando a etapa de criação e cadastro de um novo evento de arrecadação.
+
+4.6. Tela 9.2 — Escolher atividade: Registros de adoção
+
+<div align="center">
+
+<img width="804" height="1638" alt="07 - Tela 9 2 · Escolher atividade" src="https://github.com/user-attachments/assets/d9996f93-0400-45b8-b40c-a1d65a2223d0" />
+
+Figura 16 — Representação complementar da tela de seleção de atividades relacionadas aos registros de adoção.
+
+</div>
+
+Descrição:
+
+A tela apresenta as opções de gerenciamento dos registros de adoção disponíveis para o voluntário. São disponibilizadas três atividades: personalizar o modelo do registro, consultar os registros cadastrados e consultar o status de preenchimento e assinatura dos documentos. Após selecionar a atividade desejada, o usuário pode prosseguir para a próxima etapa do processo.
+
+Relação com HTA e MoLIC:
+
+Relaciona-se ao gerenciamento dos registros de adoção (HTA 9). No MoLIC, corresponde à Parte 9 — Gerenciamento dos registros de adoção, representando a cena de escolha da atividade, na qual o voluntário define qual operação deseja realizar no sistema.
+
+4.7. Tela 10.2 — Escolher atividade: Carteirinha digital
+
+<div align="center">
+
+<img width="804" height="1638" alt="08 - Tela 10 2 · Escolher atividade" src="https://github.com/user-attachments/assets/bc04e557-91d6-4ccf-917e-9a2a95d40536" />
+
+Figura 17 — Representação complementar da tela de seleção de atividades relacionadas à carteirinha digital.
+
+</div>
+
+Descrição:
+
+A tela apresenta as opções de gerenciamento das carteirinhas digitais dos animais adotados. O voluntário pode escolher entre personalizar o modelo da carteirinha, consultar as carteirinhas cadastradas ou preencher a carteirinha de um animal adotado. Após selecionar a atividade desejada, o usuário pode prosseguir para a próxima etapa.
+
+Relação com HTA e MoLIC:
+
+Relaciona-se ao gerenciamento da carteirinha digital (HTA 10). No MoLIC, corresponde à Parte 10 — Gerenciamento da carteirinha digital, representando a cena de escolha da atividade, na qual o voluntário seleciona a operação que deseja executar.
+
+05. Considerações Finais
+
+As representações complementares ampliam a documentação dos protótipos de baixa fidelidade, demonstrando etapas específicas das funcionalidades do sistema GAPI.
+
+A organização dessas telas em conjunto com os sketches principais permite visualizar melhor os caminhos de interação, os elementos das interfaces e as atividades disponíveis aos usuários. Dessa forma, mantém-se a correspondência entre os protótipos, os diagramas HTA e MoLIC, contribuindo para a continuidade do processo de prototipação e avaliação da interface.
 ---
 
 <div align="center">
