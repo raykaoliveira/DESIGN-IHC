@@ -42,11 +42,11 @@ Os sketches foram organizados de acordo com as funcionalidades definidas nos dia
 
 **Descrição:**
 
-A tela inicial apresenta o sistema mYara Pet para o GAPI e permite que o usuário escolha entre duas áreas: pública ou do voluntário. Na área pública, é possível conhecer os animais disponíveis para adoção. Já a área do voluntário direciona o usuário às ferramentas de gerenciamento do sistema. A tela também disponibiliza acesso às configurações de acessibilidade.
+O sketch apresenta duas telas relacionadas ao acesso ao sistema GAPI. A primeira corresponde à tela inicial, na qual o usuário pode escolher entre duas áreas: pública ou do voluntário. Na área pública, é possível conhecer os animais disponíveis para adoção por meio da opção "Conhecer animais". Já a área do voluntário direciona o usuário para uma tela de autenticação, na qual são solicitadas matrícula e senha para acessar as ferramentas de gerenciamento do sistema. Essa segunda tela também disponibiliza a opção de recuperação de senha e a possibilidade de retornar à tela anterior. A interface inicial ainda apresenta acesso às configurações de acessibilidade.
 
 **Relação com HTA e MoLIC:**
 
-Relaciona-se à tarefa de acesso ao aplicativo conforme o perfil do usuário (HTA 1). No MoLIC, corresponde à Parte 1 — Acesso ao aplicativo, contemplando a cena de identificação do perfil, na qual o usuário escolhe entre a área pública e a área do voluntário. Caso escolha a área restrita, deverá realizar a autenticação por matrícula e senha.
+Relaciona-se à tarefa de acesso ao aplicativo conforme o perfil do usuário (HTA 1). No MoLIC, corresponde à Parte 1 — Acesso ao aplicativo, contemplando a cena de identificação do perfil, na qual o usuário escolhe entre a área pública e a área do voluntário. Ao selecionar a área pública, pode seguir para a consulta dos animais disponíveis para adoção. Já a escolha da área do voluntário conduz à cena de autenticação, na qual são solicitadas matrícula e senha para permitir o acesso às funcionalidades restritas do sistema.
 
 ### 3.2. Sketch 02 — Catálogo de animais
 
