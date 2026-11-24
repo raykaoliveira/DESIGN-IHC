@@ -1,6 +1,14 @@
+<div align="center">
+  
 # Protótipos de Baixa Fidelidade (Sketches)
 
-## 1. Introdução
+<img src="https://img.shields.io/badge/TP2-DESIGN THINKING-167D72?style=for-the-badge">
+<img src="https://img.shields.io/badge/ARTEFATO-MOLIC-70CDB5?style=for-the-badge">
+<img src="https://img.shields.io/badge/DISCIPLINA-IHC-E8B7C8?style=for-the-badge">
+
+</div>
+
+## 01. Introdução
 
 Nesta etapa, são apresentados os protótipos de baixa fidelidade (sketches) desenvolvidos para representar as principais telas do sistema **[Nome do Sistema]**.
 
@@ -8,19 +16,23 @@ Os sketches têm como objetivo materializar visualmente as soluções propostas 
 
 A construção das telas considera os princípios de **Usabilidade, Comunicabilidade e Experiência do Usuário (UX)**, buscando proporcionar interações claras, eficientes e adequadas às necessidades dos usuários.
 
-## 2. Ferramenta Utilizada
+## 02. Ferramenta Utilizada
 
 Os protótipos foram elaborados utilizando a ferramenta **Draw.io**, que permite representar visualmente os elementos da interface por meio de esboços de baixa fidelidade.
 
 Nesta etapa, as telas não possuem funcionalidades interativas, sendo utilizadas exclusivamente para representar a estrutura inicial da interface e apoiar a análise das soluções propostas.
 
-## 3. Apresentação dos Sketches
+## 03. Apresentação dos Sketches
 
 Foram desenvolvidos cinco sketches correspondentes a telas do sistema. Cada representação busca atender aos objetivos dos usuários e às tarefas identificadas nas etapas anteriores, mantendo coerência com os diagramas HTA e MoLIC.
 
 ### 3.1. Sketch 01 — [Nome da Tela]
 
+<div align="center">
+  
 ![Sketch 01](imagens/sketch-01.png)
+
+</div>
 
 *Figura 1 — Protótipo de baixa fidelidade da tela [Nome da Tela].*
 
@@ -34,9 +46,13 @@ Foram desenvolvidos cinco sketches correspondentes a telas do sistema. Cada repr
 
 ### 3.2. Sketch 02 — [Nome da Tela]
 
+<div align="center">
+  
 ![Sketch 02](imagens/sketch-02.png)
 
 *Figura 2 — Protótipo de baixa fidelidade da tela [Nome da Tela].*
+
+</div>
 
 **Descrição:**
 
@@ -48,9 +64,13 @@ Foram desenvolvidos cinco sketches correspondentes a telas do sistema. Cada repr
 
 ### 3.3. Sketch 03 — [Nome da Tela]
 
+<div align="center">
+
 ![Sketch 03](imagens/sketch-03.png)
 
 *Figura 3 — Protótipo de baixa fidelidade da tela [Nome da Tela].*
+
+</div>
 
 **Descrição:**
 
@@ -62,9 +82,13 @@ Foram desenvolvidos cinco sketches correspondentes a telas do sistema. Cada repr
 
 ### 3.4. Sketch 04 — [Nome da Tela]
 
+<div align="center">
+  
 ![Sketch 04](imagens/sketch-04.png)
 
 *Figura 4 — Protótipo de baixa fidelidade da tela [Nome da Tela].*
+
+</div>
 
 **Descrição:**
 
@@ -76,9 +100,13 @@ Foram desenvolvidos cinco sketches correspondentes a telas do sistema. Cada repr
 
 ### 3.5. Sketch 05 — [Nome da Tela]
 
+<div align="center">
+  
 ![Sketch 05](imagens/sketch-05.png)
 
 *Figura 5 — Protótipo de baixa fidelidade da tela [Nome da Tela].*
+
+</div>
 
 **Descrição:**
 
@@ -88,7 +116,7 @@ Foram desenvolvidos cinco sketches correspondentes a telas do sistema. Cada repr
 
 [Indicar a tarefa e a interação correspondente.]
 
-## 4. Versões Alternativas das Telas
+## 04. Versões Alternativas das Telas
 
 Com o objetivo de explorar diferentes possibilidades de organização da interface, foram propostas versões alternativas para algumas telas do sistema.
 
@@ -96,9 +124,13 @@ Essas alternativas permitem comparar diferentes disposições dos elementos visu
 
 ### 4.1. Alternativa A — [Nome da Tela]
 
+<div align="center">
+  
 ![Alternativa A](imagens/alternativa-a.png)
 
 *Figura 6 — Versão alternativa A da tela [Nome da Tela].*
+
+</div>
 
 **Descrição:**
 
@@ -106,9 +138,13 @@ Essas alternativas permitem comparar diferentes disposições dos elementos visu
 
 ### 4.2. Alternativa B — [Nome da Tela]
 
+<div align="center">
+  
 ![Alternativa B](imagens/alternativa-b.png)
 
 *Figura 7 — Versão alternativa B da tela [Nome da Tela].*
+
+</div>
 
 **Descrição:**
 
@@ -129,10 +165,19 @@ A comparação entre as versões considera os princípios de usabilidade, comuni
 
 [Explicar as vantagens e limitações de cada proposta e, caso o grupo tenha realizado uma escolha, justificar a alternativa selecionada.]
 
-## 5. Considerações Finais
+## 05. Considerações Finais
 
 A elaboração dos sketches constitui uma etapa inicial da prototipação do sistema **[Nome do Sistema]**, permitindo representar visualmente as soluções desenvolvidas durante a ideação.
 
 Os protótipos buscam manter correspondência com os objetivos dos usuários, as tarefas descritas nos HTAs e os fluxos de interação definidos no MoLIC.
 
 A criação de versões alternativas também contribui para a discussão de diferentes possibilidades de design, permitindo identificar aspectos que poderão ser aprimorados nas próximas etapas de desenvolvimento da interface.
+
+---
+
+<div align="center">
+
+**DESIGN IHC | SISTEMAS DE INFORMAÇÃO & ENGENHARIA DE SOFTWARE**
+
+</div>
+
