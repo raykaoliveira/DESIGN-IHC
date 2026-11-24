@@ -125,7 +125,7 @@ Design-IHC/
 | GitHub | Versionamento e organização do trabalho |
 | Draw.io | Sketches, HTAs, MoLIC e mapa de objetivos |
 | Google Forms | Pesquisa com usuários |
-| Canva /outra] | Personas |
+| Canva /outra | Personas |
 
 ---
 
