@@ -102,7 +102,7 @@ Design-IHC/
 ## Resumo das etapas
 
 ### 1. Imersão
-- **Briefing:** Quantas conversas, com quem (sem identificar) e as principais informações obtidas.
+- **Briefing:** Quantas conversas, com quem e as principais informações obtidas.
 - **Matriz CSD:** Quantidade de certezas, suposições e dúvidas e como orientaram a pesquisa.
 - **Pesquisa com usuários:** Método usado, número de participantes e principais achados.
 
