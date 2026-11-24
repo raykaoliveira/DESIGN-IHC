@@ -26,25 +26,25 @@ Nesta etapa, as telas não possuem funcionalidades interativas, sendo utilizadas
 
 Foram desenvolvidos cinco sketches correspondentes a telas do sistema. Cada representação busca atender aos objetivos dos usuários e às tarefas identificadas nas etapas anteriores, mantendo coerência com os diagramas HTA e MoLIC.
 
-### 3.1. Sketch 01 — [Nome da Tela]
+### 3.1. Tela 1 - Acesso ao aplicativo 
 
 <div align="center">
   
-![Sketch 01](imagens/sketch-01.png)
+![Sketch 01](https://github.com/raykaoliveira/DESIGN-IHC/blob/main/03-prototipacao/fotos/Tela%201%20-%20Acesso%20ao%20aplicativo.drawio.png?raw=true)
 
 </div>
 
-*Figura 1 — Protótipo de baixa fidelidade da tela [Nome da Tela].*
+*Figura 1 — Protótipo de baixa fidelidade da tela Acesso ao aplicativo.*
 
 **Descrição:**
 
-[Descrever a finalidade da tela, seus principais elementos e as ações que o usuário poderá realizar.]
+A tela inicial apresenta o sistema GAPI e permite que o usuário escolha entre duas áreas: pública ou do voluntário. Na área pública, é possível conhecer os animais disponíveis para adoção. Já a área do voluntário direciona o usuário às ferramentas de gerenciamento do sistema. A tela também disponibiliza acesso às configurações de acessibilidade.
 
 **Relação com HTA e MoLIC:**
 
-[Indicar a tarefa do HTA e a cena ou fluxo do MoLIC correspondente.]
+Relaciona-se à tarefa de identificação do perfil do usuário (HTA 1). No MoLIC, corresponde à cena de identificação do perfil, na qual o usuário escolhe a área que deseja acessar. A opção de voluntário conduz ao fluxo de autenticação.
 
-### 3.2. Sketch 02 — [Nome da Tela]
+### 3.2. Sketch 02 — Catálogo de animais
 
 <div align="center">
   
