@@ -1,6 +1,13 @@
-# GAPI — Design de IHC
+<div align="center">
+  
+# Design Thinking | IHC
 
-**Sistema:** GAPI (Grupo de Apoio e Proteção aos Animais)
+<img src="https://img.shields.io/badge/TP2-DESIGN THINKING-167D72?style=for-the-badge">
+<img src="https://img.shields.io/badge/DISCIPLINA-IHC-E8B7C8?style=for-the-badge">
+
+</div>
+
+**Sistema:** mYara Pet 
 
 **Disciplina:** Interação Humano-Computador (IHC) — ICET/UFAM
 
@@ -9,9 +16,6 @@
 **Trabalho:** TP2 — Design de IHC
 
 **Semestre:** 2026/2
-
-<!-- Opcional: imagem de destaque (por exemplo, a Tela 1 exportada) -->
-<!-- ![Tela inicial do GAPI](03-prototipacao/imagens/esboco-1-versao-a.png) -->
 
 ---
 
@@ -31,7 +35,7 @@
 
 ## Sobre o projeto
 
-O GAPI é um aplicativo para apoiar o trabalho do Grupo de Apoio e Proteção aos Animais, conectando o público interessado em adotar e os voluntários que cuidam dos animais.
+O mYara Pet é um aplicativo para apoiar o trabalho do Grupo de Ajuda aos Pets de Itacoatiara (GAPI), conectando o público interessado em adotar e os voluntários que cuidam dos animais.
 
 O design cobre sete funcionalidades principais, modeladas em HTAs e em diagramas MoLIC:
 
@@ -43,8 +47,8 @@ O design cobre sete funcionalidades principais, modeladas em HTAs e em diagramas
 6. Levantamento financeiro das feiras
 7. Acessibilidade e personalização
 
-**Cliente:** [Quem representou o GAPI, sem identificar]
-**Público-alvo:** [Perfis atendidos: visitantes interessados em adotar, tutores, voluntários e pessoas com necessidade de acessibilidade]
+**Cliente:** Representante e líder do GAPI
+**Público-alvo:** Perfis atendidos: visitantes interessados em adoção, tutores, voluntários e pessoas com necessidade de acessibilidade
 
 ---
 
@@ -127,8 +131,14 @@ Design-IHC/
 
 ## Declaração de uso de Inteligência Artificial
 
-A equipe utilizou ferramentas de Inteligência Artificial, como [Claude / ChatGPT / Gemini / outras], para [descrever as atividades: revisão textual, organização de partes da documentação, apoio à escrita etc.]. As ferramentas foram utilizadas apenas como suporte, e todo o conteúdo gerado foi revisado e ajustado pelos integrantes da equipe, que são responsáveis pelo conteúdo entregue.
+A equipe utilizou ferramentas de Inteligência Artificial, como Claude, ChatGPT e Gemini , para descrever as atividades: revisão textual e organização de partes da documentação. As ferramentas foram utilizadas apenas como suporte, e todo o conteúdo gerado foi revisado e ajustado pelos integrantes da equipe, que são responsáveis pelo conteúdo entregue.
 
-<!-- Se a IA não foi usada, substitua por: "A equipe não utilizou ferramentas de Inteligência Artificial no desenvolvimento deste trabalho." -->
 
 ---
+
+<div align="center">
+
+**DESIGN IHC | SISTEMAS DE INFORMAÇÃO & ENGENHARIA DE SOFTWARE**
+
+</div>
+
