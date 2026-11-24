@@ -28,9 +28,8 @@ Este documento apresenta a modelagem da interação entre usuários e o aplicati
 
 ## 03. Visão geral do diagrama completo
 
-<img width="3121" height="1358" alt="image" src="https://github.com/user-attachments/assets/2972977a-4836-4384-b850-3209f037bb2b" />
+<img width="3582" height="1150" alt="image" src="https://github.com/user-attachments/assets/d577d442-02d8-413f-9ca0-a7758eeeda1d" />
 
-[Adiciona aqui a segunda parte (molic da hta 8,9 e 10)]
 
 O diagrama tem dez partes, uma para cada HTA. Todas seguem o mesmo padrão: partem do **Menu inicial** (acesso ubíquo, em cinza), que permite entrar em qualquer funcionalidade e sair do aplicativo com `u: Sair`. Dentro de cada parte, o usuário avança por cenas conectadas por processos do sistema: ele envia `u: Prosseguir`, o sistema processa e responde com um `d:` que leva à cena seguinte. Setas de retorno permitem corrigir uma escolha e setas tracejadas permitem sair da funcionalidade ou cancelar a operação, voltando ao Menu inicial.
 
@@ -53,7 +52,7 @@ O diagrama tem dez partes, uma para cada HTA. Todas seguem o mesmo padrão: part
 
   ### Parte 1 – Acesso ao aplicativo (HTA 1)
 
-<img width="426" height="1090" alt="image" src="https://github.com/user-attachments/assets/e1a50c49-9839-458b-ba4c-dfe2befcb96f" />
+<img width="619" height="1550" alt="image" src="https://github.com/user-attachments/assets/f253733b-003a-4d86-979f-02e9917ec3b7" />
 
 **Resumo da parte:** O usuário entra no aplicativo, escolhe o tipo de acesso (área pública ou área do voluntário) e, no caso do voluntário, informa suas credenciais para chegar ao ambiente do seu perfil. Atende ao objetivo de acessar o aplicativo conforme o perfil.
 
@@ -92,7 +91,7 @@ O diagrama tem dez partes, uma para cada HTA. Todas seguem o mesmo padrão: part
   
 ### Parte 2 – Consulta de animais para adoção (HTA 2)
 
-<img width="450" height="1355" alt="image" src="https://github.com/user-attachments/assets/d04362af-a8c4-46fc-9c25-48738a4c640b" />
+<img width="651" height="1921" alt="image" src="https://github.com/user-attachments/assets/f8bd9629-28d9-4a1d-9185-3e66c828cd65" />
 
 **Resumo da parte:** O interessado acessa a área pública, consulta o catálogo de animais disponíveis, vê os dados de um animal específico e, se tiver interesse, recebe o link que o leva ao WhatsApp dos voluntários do GAPI.
 
@@ -134,7 +133,7 @@ O diagrama tem dez partes, uma para cada HTA. Todas seguem o mesmo padrão: part
   
 ### Parte 3 – Gerenciamento do cadastro dos animais (HTA 3)
 
-<img width="441" height="1358" alt="image" src="https://github.com/user-attachments/assets/1ce0639e-53f0-499e-bdee-f1650d975e59" />
+<img width="640" height="1925" alt="image" src="https://github.com/user-attachments/assets/678381db-932e-4813-9967-ddd112fc4c2a" />
 
 **Resumo da parte:** O voluntário acessa a área de gerenciamento, escolhe entre cadastrar um novo animal, atualizar informações ou atualizar a disponibilidade, preenche os dados e salva, o que atualiza o catálogo público.
 
@@ -176,7 +175,7 @@ O diagrama tem dez partes, uma para cada HTA. Todas seguem o mesmo padrão: part
 
 ### Parte 4 – Registro e formalização da adoção (HTA 4)
 
-<img width="460" height="1355" alt="image" src="https://github.com/user-attachments/assets/7a9febcc-37e5-4246-aa1f-fff7f866a9eb" />
+<img width="666" height="1921" alt="image" src="https://github.com/user-attachments/assets/92b23fbd-5c51-4bd2-b731-5d4394cfa310" />
 
 **Resumo da parte:** Depois do contato externo, o voluntário seleciona o animal adotado, registra os dados do adotante, formaliza o termo de adoção e o sistema gera a carteirinha digital do pet, vinculada ao tutor.
 
@@ -218,7 +217,7 @@ O diagrama tem dez partes, uma para cada HTA. Todas seguem o mesmo padrão: part
   
 ### Parte 5 – Acompanhamento do animal após a adoção (HTA 5)
 
-<img width="453" height="1104" alt="image" src="https://github.com/user-attachments/assets/c7bc4e57-317e-46d8-8622-5eed171ec5da" />
+<img width="657" height="1569" alt="image" src="https://github.com/user-attachments/assets/bd55f695-5c99-42a7-8f13-8cdfb9e008fa" />
 
 **Resumo da parte:** O tutor entra na área do tutor, consulta a carteirinha digital do animal adotado e escolhe o que acompanhar: vacinação, visitas ou informações gerais de acompanhamento.
 
@@ -257,7 +256,7 @@ O diagrama tem dez partes, uma para cada HTA. Todas seguem o mesmo padrão: part
 
 ### Parte 6 – Levantamento financeiro das feiras (HTA 6)
 
-<img width="442" height="1354" alt="image" src="https://github.com/user-attachments/assets/3a41ccca-9304-49b4-a923-af72da4d74f8" />
+<img width="641" height="1919" alt="image" src="https://github.com/user-attachments/assets/39a39e9c-833f-4cc0-8481-bdf588f69c4e" />
 
 **Resumo da parte:** O voluntário acessa a gestão financeira, escolhe a feira ou o evento, registra valores arrecadados e despesas e salva o levantamento, obtendo o resultado financeiro do evento. A cena de escolha também permite consultar o histórico.
 
@@ -299,8 +298,7 @@ O diagrama tem dez partes, uma para cada HTA. Todas seguem o mesmo padrão: part
 
 ### Parte 7 – Acessibilidade e personalização (HTA 7)
 
-<img width="450" height="1162" alt="image" src="https://github.com/user-attachments/assets/2ce104fd-3bc1-43b0-9124-523134683c7e" />
-
+<img width="652" height="1651" alt="image" src="https://github.com/user-attachments/assets/76da5acb-5d3f-4072-a09d-fc331ea40661" />
 
 **Resumo da parte:** O usuário abre as configurações de acessibilidade, personaliza a aparência, os estímulos sensoriais, as notificações e a comunicação, e o sistema salva e mantém as preferências nas próximas utilizações.
 
@@ -337,12 +335,11 @@ O diagrama tem dez partes, uma para cada HTA. Todas seguem o mesmo padrão: part
 
 <div align="center">
 
-### Parte 8 –  (HTA 8)
+### Parte 8 – Organização de eventos e relatórios (HTA 8)
 
-<img
+<img width="680" height="2013" alt="image" src="https://github.com/user-attachments/assets/4b3e90f6-2788-4f58-b48b-154822838069" />
 
-
-**Resumo da parte:** 
+**Resumo da parte:** O voluntário cria e configura um evento de arrecadação, seleciona os voluntários participantes, solicita e acompanha os relatórios individuais e, por fim, consolida e compartilha o relatório financeiro final.
 
 </div>
 
@@ -350,28 +347,31 @@ O diagrama tem dez partes, uma para cada HTA. Todas seguem o mesmo padrão: part
 
 | Cena | Diálogos | Papel no fluxo |
 |---|---|---|
-|  |  `d: ` |  |
-|  |  |  |
-|  | `d: ` |  |
+| Criar evento de arrecadação |  O usuário acessa o gerenciamento de eventos, informa nome, data e meta de arrecadação (`d+u`) e salva a configuração | Define o evento a ser organizado |
+| Selecionar voluntários | `d: Lista de voluntários disponíveis`; o usuário seleciona os voluntários do evento e confirma a participação | Define quem participa do evento |
+| Acompanhar relatórios individuais | O usuário solicita o relatório a cada voluntário; `d: Acompanhamento do recebimento dos relatórios`; `d: Valores informados para conferência` | Garante que os valores de cada voluntário foram recebidos e conferidos |
+| Relatório financeiro final | `d: Relatórios individuais consolidados` e `d: Relatório financeiro final gerado; o usuário compartilha com os envolvidos` | Conclui o ciclo e divulga o resultado |
 
 **Transições**
 
 | De | Para | Fala | Condição |
 |---|---|---|---|
-|  |  | `u: ` |  |
-|  |  | `u: ` |  |
-|  |  | `d: ` |  |
-|  |  | `u: ` |  |
-|  |  | `d: ` |  |
-|  |  | `u:`  |  |
-|  |  | `u: ` (tracejada) |  |
-|  |  | `u: ` (tracejada) |  |
+| Menu inicial | Criar evento de arrecadação | `u: Organizar evento` | Acesso ubíquo: pode ser feito a partir do Menu inicial a qualquer momento |
+| Criar evento de arrecadação | Processo do sistema | `u: Prosseguir` | O usuário concluiu os diálogos da cena |
+| Processo do sistema | Selecionar voluntários | `d: Evento salvo` | O processamento foi concluído com sucesso |
+| Selecionar voluntários | Processo do sistema | `u: Prosseguir` | O usuário concluiu os diálogos da cena |
+| Processo do sistema | Acompanhar relatórios individuais | `d: Participação confirmada` | O processamento foi concluído com sucesso |
+| Acompanhar relatórios individuais | Processo do sistema | `u: Prosseguir`  | O usuário concluiu os diálogos da cena |
+| Processo do sistema | Relatório financeiro final | `d: Valores conferidos` (tracejada) | O processamento foi concluído com sucesso |
+| Selecionar voluntários | Criar evento de arrecadação | `u: Alterar dados do evento` (tracejada) | O usuário quer corrigir ou mudar uma escolha anterior |
+| Criar evento de arrecadação | Menu inicial | `u: Sair da funcionalidade` (tracejada) | O usuário desiste e abandona a funcionalidade sem concluir |
+| Acompanhar relatórios individuais | Menu inicial | `u: Cancelar acompanhamento` (tracejada) | O usuário desiste e abandona a funcionalidade sem concluir |
 
-**Processos do sistema:**
+**Processos do sistema:** Três processos: salvar a configuração do evento (`d: Evento salvo`), registrar a participação dos voluntários (`d: Participação confirmada`) e validar os valores recebidos (`d: Valores conferidos`).
 
-**Rupturas e recuperação:** 
+**Rupturas e recuperação:** Se os dados do evento precisarem mudar, `u: Alterar dados do evento volta à primeira cena` . As setas tracejadas (`u: Sair da funcionalidade` e `u: Cancelar acompanhamento`) levam ao Menu inicial.
 
-**Relação com o HTA 8:** 
+**Relação com o HTA 8:** As quatro cenas correspondem aos quatro subobjetivos do HTA: criar e configurar o evento (1), selecionar os voluntários (2), solicitar e acompanhar os relatórios individuais (3) e consolidar e compartilhar o relatório final (4).
 
 ---
 
@@ -379,10 +379,9 @@ O diagrama tem dez partes, uma para cada HTA. Todas seguem o mesmo padrão: part
 
 ### Parte 9 –  (HTA 9)
 
-<img
+<img width="657" height="1646" alt="image" src="https://github.com/user-attachments/assets/5a53b583-176e-42f1-9a16-a81715b63f23" />
 
-
-**Resumo da parte:** 
+**Resumo da parte:** O usuário escolhe entre personalizar o modelo do registro de adoção, consultar os registros cadastrados ou consultar o status de preenchimento e de assinatura de um registro.
 
 </div>
 
@@ -390,28 +389,28 @@ O diagrama tem dez partes, uma para cada HTA. Todas seguem o mesmo padrão: part
 
 | Cena | Diálogos | Papel no fluxo |
 |---|---|---|
-|  |  `d: ` |  |
-|  |  |  |
-|  | `d: ` |  |
+| Escolher atividade |  Seleção da atividade (`XOR`: Personalizar modelo do registro, Consultar registros cadastrados ou Consultar status de preenchimento e assinatura) | Define o caminho que o usuário seguirá |
+| Realizar atividade | Modelo: acessar o modelo e editar campos e texto. Registros: acessar a lista, buscar ou filtrar. Status: selecionar o registro de adoção | Reúne as ações de entrada de cada atividade |
+| Resultado da atividade | Modelo: d: Modelo personalizado salvo. Registros: d: Detalhes do registro. Status: `d: Status de preenchimento` e `d: Status da assinatura` | Apresenta o resultado da atividade escolhida |
 
 **Transições**
 
 | De | Para | Fala | Condição |
 |---|---|---|---|
-|  |  | `u: ` |  |
-|  |  | `u: ` |  |
-|  |  | `d: ` |  |
-|  |  | `u: ` |  |
-|  |  | `d: ` |  |
-|  |  | `u:`  |  |
-|  |  | `u: ` (tracejada) |  |
-|  |  | `u: ` (tracejada) |  |
+| Menu inicial | Escolher atividade | `u: Gerenciar registros de adoção` | Acesso ubíquo: pode ser feito a partir do Menu inicial a qualquer momento |
+| Escolher atividade | Processo do sistema | `u: Prosseguir` | O usuário concluiu os diálogos da cena |
+| Processo do sistema | Realizar atividade | `d: Atividade selecionada` | O processamento foi concluído com sucesso |
+| Realizar atividade | Processo do sistema | `u: Prosseguir` | O usuário concluiu os diálogos da cena |
+| Processo do sistema | Resultado da atividade | `d: Atividade concluída` | O processamento foi concluído com sucesso |
+| Realizar atividade | Escolher atividade | `u: Escolher outra atividade`  | O usuário quer corrigir ou mudar uma escolha anterior |
+| Escolher atividade | Menu inicial | `u: Sair da funcionalidade` (tracejada) | O usuário desiste e abandona a funcionalidade sem concluir |
+| Realizar atividade | Menu inicial | `u: Cancelar atividade` (tracejada) | O usuário desiste e abandona a funcionalidade sem concluir |
 
-**Processos do sistema:**
+**Processos do sistema:** Dois processos: abrir a atividade escolhida (`d: Atividade selecionada`) e concluí-la, salvando o modelo ou exibindo as informações (`d: Atividade concluída`).
 
-**Rupturas e recuperação:** 
+**Rupturas e recuperação:** O usuário pode trocar de atividade com `u: Escolher outra atividade`. As setas tracejadas (`u: Sair da funcionalidade` e `u: Cancelar atividade`) levam ao Menu inicial.
 
-**Relação com o HTA 9:** 
+**Relação com o HTA 9:** Relação com o HTA 9: A cena Escolher atividade representa a escolha entre os subobjetivos 1, 2 e 3 do HTA. Realizar atividade reúne as tarefas de acessar, editar, buscar e selecionar (1.1, 1.2, 2.1, 2.2 e 3.1) e Resultado da atividade reúne as de salvar, visualizar e verificar (1.3, 2.3, 3.2 e 3.3).
 
 ---
 
@@ -419,10 +418,9 @@ O diagrama tem dez partes, uma para cada HTA. Todas seguem o mesmo padrão: part
 
 ### Parte 10 –  (HTA 10)
 
-<img
+<img width="657" height="1648" alt="image" src="https://github.com/user-attachments/assets/edb53379-9e1e-46e9-88aa-7d2728bd783b" />
 
-
-**Resumo da parte:** 
+**Resumo da parte:** O usuário escolhe entre personalizar o modelo da carteirinha digital, consultar as carteirinhas cadastradas ou preencher a carteirinha de um animal adotado.
 
 </div>
 
@@ -430,28 +428,28 @@ O diagrama tem dez partes, uma para cada HTA. Todas seguem o mesmo padrão: part
 
 | Cena | Diálogos | Papel no fluxo |
 |---|---|---|
-|  |  `d: ` |  |
-|  |  |  |
-|  | `d: ` |  |
+| Escolher atividade |  Seleção da atividade (XOR: Personalizar modelo da carteirinha, Consultar carteirinhas cadastradas ou Preencher carteirinha do animal adotado) | Define o caminho que o usuário seguirá |
+| Realizar atividade |  Modelo: acessar o modelo e editar os campos. Consulta: acessar a lista e buscar a carteirinha do animal. Preenchimento: selecionar o animal adotado e preencher os dados | Reúne as ações de entrada de cada atividade |
+| Resultado da atividade | Modelo: `d: Modelo personalizado salvo`. Consulta: `d: Informações da carteirinha`. Preenchimento: `d: Carteirinha preenchida salva` | Apresenta o resultado da atividade escolhida  |
 
 **Transições**
 
 | De | Para | Fala | Condição |
 |---|---|---|---|
-|  |  | `u: ` |  |
-|  |  | `u: ` |  |
-|  |  | `d: ` |  |
-|  |  | `u: ` |  |
-|  |  | `d: ` |  |
-|  |  | `u:`  |  |
-|  |  | `u: ` (tracejada) |  |
-|  |  | `u: ` (tracejada) |  |
+| Menu inicial | Escolher atividade | `u: Gerenciar carteirinhas` | Acesso ubíquo: pode ser feito a partir do Menu inicial a qualquer momento |
+| Escolher atividade | Processo do sistema | `u: Prosseguir` | O usuário concluiu os diálogos da cena |
+| Processo do sistema | Realizar atividade | `d: Atividade selecionada` | O processamento foi concluído com sucesso |
+| Realizar atividade | Processo do sistema | `u: Prosseguir` | O usuário concluiu os diálogos da cena |
+| Processo do sistema | Resultado da atividade | `d: Atividade concluída` | O processamento foi concluído com sucesso |
+| Realizar atividade | Escolher atividade | `u: Escolher outra atividade`  | O usuário quer corrigir ou mudar uma escolha anterior |
+| Escolher atividade | Menu inicial | `u: Sair da funcionalidade` (tracejada) | O usuário desiste e abandona a funcionalidade sem concluir |
+| Realizar atividade | Menu inicial | `u: Cancelar atividade` (tracejada) | O usuário desiste e abandona a funcionalidade sem concluir |
 
-**Processos do sistema:**
+**Processos do sistema:** Dois processos: abrir a atividade escolhida (`d: Atividade selecionada`) e concluí-la, salvando o modelo ou a carteirinha, ou exibindo as informações (`d: Atividade concluída`)
 
-**Rupturas e recuperação:** 
+**Rupturas e recuperação:** O usuário pode trocar de atividade com `u: Escolher outra atividade`. As setas tracejadas (`u: Sair da funcionalidade` e `u: Cancelar atividade`) levam ao Menu inicial.
 
-**Relação com o HTA 10:** 
+**Relação com o HTA 10:** A cena Escolher atividade representa a escolha entre os subobjetivos 1, 2 e 3 do HTA. Realizar atividade reúne as tarefas de acessar, editar, buscar, selecionar e preencher (1.1, 1.2, 2.1, 2.2, 3.1 e 3.2) e Resultado da atividade reúne as de salvar e visualizar (1.3, 2.3 e 3.3).
 
 ---
 
